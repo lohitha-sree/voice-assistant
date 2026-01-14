@@ -1,2 +1,2 @@
 # voice-assistant
-Voice Assistant is a Python-based application that listens to user voice commands and responds using speech output. 
+Voice Assistant is a Python-based application that listens to user voice commands and responds using speech output. It performs tasks such as answering questions, opening websites, telling the current time, and executing basic system commands. The project uses speech recognition and text-to-speech libraries to enable human–computer interaction. It demonstrates concepts like audio processing, command handling, and automation using Python. This application is beginner-friendly and suitable for learning voice-based technologies.
